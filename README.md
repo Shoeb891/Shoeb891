@@ -13,8 +13,18 @@
 </p>
 
 
-## Github stats:
-[![Shoeb891 GitHub stats](https://github-readme-stats.vercel.app/api?username=Shoeb891&show_icons=true&theme=radical)](https://github.com/Shoeb891)
+
+
+## GitHub Activity
+
+<div align="center">
+  <a href="https://github.com/Shoeb891">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shoeb891&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/Shoeb891">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoeb891&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+  </a>
+</div>
 
 
 ----
