@@ -25,7 +25,7 @@
 
 ### Hi there, I'm Shoeb
 
-#### I'm a sophomore pursuing a Bachelor's of Engineering.
+#### I'm a sophomore pursuing a Bachelor of Engineering Degree.
 
 </div>
 
