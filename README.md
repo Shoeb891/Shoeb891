@@ -1,13 +1,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"
-       width="750"
-       height="300" />
+       width="600" height="300" />
 </p>
 
 <div align="center">
-  <a href="https://github.com/Shoeb891" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
+ 
   <a href="https://twitter.com/mohiuddinshoeb" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
@@ -18,14 +15,26 @@
     <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
   </a>  
   
-  <a href="https://stackoverflow.com/users/m_callens" target="_blank">
-    <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-  </a> 
-  <a href="https://slack.com/users/m_callens" target="_blank">
-    <img src=https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white alt=slack style="margin-bottom: 5px;" />
-  </a> 
+ 
   
 </div>  
+
+---
+
+<div align="center">
+
+### Hi there, I'm Shoeb
+
+#### I'm a sophomore pursuing a Bachelor's of Engineering.
+
+</div>
+
+---
+
+
+
+
+
 <div align="center">
   <div>
     <h3>Tech Stack</h3>
@@ -63,6 +72,11 @@
 
 
 ----
+
+<div align="center">
+  
 #### "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge" - Daniel J. Boorstin
-----
+
+<div/>
+
 
