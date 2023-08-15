@@ -49,8 +49,10 @@
 </div>
 <div align="center">
   <h3>Others<h3/>
-    <img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06style=flat-square&logo=typescript&logoColor=white" />
 
+ <a href="https://leetcode.com/Shoeb_/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06style=flat-square&logo=typescript&logoColor=white"  />
+  </a>  
 </div>
 
 
