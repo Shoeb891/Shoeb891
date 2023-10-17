@@ -23,9 +23,7 @@
 
 <div align="center">
 
-### Hi there, I'm Shoeb
-
-#### I'm a sophomore pursuing Bachelor of Engineering.
+### Hi there,
 
 </div>
 
