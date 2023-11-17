@@ -74,7 +74,6 @@
 
 <div align="center">
   
-#### "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge" - Daniel J. Boorstin
 
 <div/>
 
